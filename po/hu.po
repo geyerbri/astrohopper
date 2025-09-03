@@ -118,7 +118,7 @@ msgid "GPS Override"
 msgstr "GPS felülbírálás"
 
 #: [12]
-msgid ""
+msgid "Palestine needs our help!"
 msgstr ""
 
 #: [13]
@@ -284,7 +284,7 @@ msgid "Pinch Zoom"
 msgstr "Kétujjas nagyítás"
 
 #: [44]
-msgid ""
+msgid "Never again means never again!"
 msgstr ""
 
 #: [45]
