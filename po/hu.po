@@ -118,8 +118,8 @@ msgid "GPS Override"
 msgstr "GPS felülbírálás"
 
 #: [12]
-msgid "Bring them home now!"
-msgstr "Hozzuk haza őket!"
+msgid ""
+msgstr ""
 
 #: [13]
 msgid "Never"
@@ -284,8 +284,8 @@ msgid "Pinch Zoom"
 msgstr "Kétujjas nagyítás"
 
 #: [44]
-msgid "Stand with Israel against terror!"
-msgstr "Állj Izrael mellé a terror ellen!"
+msgid ""
+msgstr ""
 
 #: [45]
 msgid "List"
