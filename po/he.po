@@ -55,8 +55,8 @@ msgid "Always"
 msgstr "תמיד"
 
 #: [1]
-msgid "Bring them home now!"
-msgstr "החזירו אותם הביתה!"
+msgid "Palestine needs our help!"
+msgstr ""
 
 #: [2]
 msgid "Stars"
@@ -263,8 +263,8 @@ msgid "Nebulae"
 msgstr "ערפיליות"
 
 #: [47]
-msgid "Stand with Israel against terror!"
-msgstr "עמדו לצד ישראל כנגד טרור!"
+msgid "Never again means never again!"
+msgstr ""
 
 #: [48]
 msgid ""
