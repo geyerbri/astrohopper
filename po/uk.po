@@ -121,8 +121,8 @@ msgid "GPS Override"
 msgstr "Перевизначення GPS"
 
 #: [12]
-msgid "Bring them home now!"
-msgstr "Приведіть їх додому зараз!"
+msgid "Palestine needs our help!"
+msgstr ""
 
 #: [13]
 msgid "Never"
@@ -289,8 +289,8 @@ msgid "Pinch Zoom"
 msgstr "Масштабування щипком"
 
 #: [44]
-msgid "Stand with Israel against terror!"
-msgstr "Підтримайте Ізраїль проти терору!"
+msgid "Never again means never again!"
+msgstr ""
 
 #: [45]
 msgid "List"
